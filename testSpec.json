@@ -1,0 +1,17 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/secp256k1-2019/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "HISPSA:0:0",
+    "name": "HISPSA",
+    "verifiers": [
+        {   "id": "HISPSA:0:1", 
+            "id1": "HISPSA:0:1#ethereumAddress", 
+            "type": "EcdsaSecp256k1RecoverySignature2020",
+            "publicKey": "0xc09BBc73A4b409F6B69Bf8a9CE5294DDA86085dD", 
+            "signature": "0xeb86e567ea6a64cf7cb0639e7641177b49447d4c0e4a484b2fb29fab98bc75512293641143ce80360a1bd90237509d50f5333da80b329327a1e8e771ff0322051b"
+         }
+    ]
+}
