@@ -6,7 +6,7 @@
     ],
     "id": "62fa42c18b7c3a0191aa62d3",
     "name": "HISPSA",
-    "verifiers": [
+    "publicKey": [
         {   "id": "HISPSA:isAdmin:0", 
             "type": "EcdsaSecp256k1RecoverySignature2020",
             "publicKey": "0xc09BBc73A4b409F6B69Bf8a9CE5294DDA86085dD", 
