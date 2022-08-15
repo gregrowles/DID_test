@@ -7,15 +7,20 @@
     "id": "HISPSA:0:0",
     "name": "HISPSA",
     "publicKey": [
-        {   "id": "HISPSA:isAdmin:0", 
+        {   "id": "HISPSA:0:0", 
             "type": "EcdsaSecp256k1RecoverySignature2020",
             "signature": "0xeb86e567ea6a64cf7cb0639e7641177b49447d4c0e4a484b2fb29fab98bc75512293641143ce80360a1bd90237509d50f5333da80b329327a1e8e771ff0322051b",
             "hash": "0x91c28c417c5267050267b30a51885d2dae2856b4786c5cd5bdd675bcd36bb09a"
          },
-        {   "id": "HISPSA:isAdmin:1", 
+        {   "id": "HISPSA:0:1", 
             "type": "EcdsaSecp256k1RecoverySignature2020",
-            "signature": "0x38f672ff5eabb7428c29689e773ce2f2240b4811e033fa23685534612196da3d171f1c94fc9b82d75694690701daf8eb3f405c289ac18b2af4ba33a0969ba4ed1c",
-            "hash": "0xc520116fd0413347f24bff1f77294ef4fd85bf9f4a903fffddcc2ebba0705e19"
+            "signature": "0xd71f2140a7c69f15582e73304ca8a4105c6d860ea7d0de3775f5eb45664f05e633b1d08c14e8e53cba83ecad37ac1f333f4bdb6731afc5c7cf0b5f1f80fc4d151b",
+            "hash": "0x1e825cbe363e637b1b4c4a5cf14c6ce188ec3a685e6eac50dca7c1029021d9de"
+         },
+        {   "id": "HISPSA:isAdmin:0", 
+            "type": "EcdsaSecp256k1RecoverySignature2020",
+            "signature": "0xa9decd3ba6cf34f258c8e6aec8073b6f81139e15a53c55cfe3f98995b36fb47a0213e45c3eff2c1be79bb4925c45f0d09f737b8578886e30a8dbebf5e33277711c",
+            "hash": "0xbf2fe69a8a80fcb936c1e30bc20dbb9dcc808d701ce81f10238fad9d82f8bcfb"
          }
     ]
 }
