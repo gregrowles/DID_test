@@ -7,12 +7,17 @@
     "id": "HISPSA:0:0",
     "name": "HISPSA",
     "verifiers": [
-        {   "id": "HISPSA:0:1", 
-            "id1": "HISPSA:0:1#ethereumAddress", 
+        {   "id": "HISPSA:isAdmin:0", 
             "type": "EcdsaSecp256k1RecoverySignature2020",
             "publicKey": "0xc09BBc73A4b409F6B69Bf8a9CE5294DDA86085dD", 
             "signature": "0xeb86e567ea6a64cf7cb0639e7641177b49447d4c0e4a484b2fb29fab98bc75512293641143ce80360a1bd90237509d50f5333da80b329327a1e8e771ff0322051b",
             "hash": "0x91c28c417c5267050267b30a51885d2dae2856b4786c5cd5bdd675bcd36bb09a"
+         },
+        {   "id": "HISPSA:isAdmin:1", 
+            "type": "EcdsaSecp256k1RecoverySignature2020",
+            "publicKey": "0x1FF9aCBA219E14876DBB54eA5d48D61b6684219D", 
+            "signature": "0x38f672ff5eabb7428c29689e773ce2f2240b4811e033fa23685534612196da3d171f1c94fc9b82d75694690701daf8eb3f405c289ac18b2af4ba33a0969ba4ed1c",
+            "hash": "0xc520116fd0413347f24bff1f77294ef4fd85bf9f4a903fffddcc2ebba0705e19"
          }
     ]
 }
