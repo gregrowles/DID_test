@@ -4,23 +4,33 @@
         "https://w3id.org/security/suites/secp256k1-2019/v1",
         "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "HISPSA:0:0",
+    "id": "did:key:HISPSA",
     "name": "HISPSA",
     "publicKey": [
-        {   "id": "HISPSA:0:0", 
-            "type": "EcdsaSecp256k1RecoverySignature2020",
-            "signature": "0xeb86e567ea6a64cf7cb0639e7641177b49447d4c0e4a484b2fb29fab98bc75512293641143ce80360a1bd90237509d50f5333da80b329327a1e8e771ff0322051b",
-            "hash": "0x91c28c417c5267050267b30a51885d2dae2856b4786c5cd5bdd675bcd36bb09a"
-         },
-        {   "id": "HISPSA:0:1", 
-            "type": "EcdsaSecp256k1RecoverySignature2020",
-            "signature": "0xd71f2140a7c69f15582e73304ca8a4105c6d860ea7d0de3775f5eb45664f05e633b1d08c14e8e53cba83ecad37ac1f333f4bdb6731afc5c7cf0b5f1f80fc4d151b",
-            "hash": "0x1e825cbe363e637b1b4c4a5cf14c6ce188ec3a685e6eac50dca7c1029021d9de"
-         },
-        {   "id": "HISPSA:isAdmin:0", 
-            "type": "EcdsaSecp256k1RecoverySignature2020",
-            "signature": "0xa9decd3ba6cf34f258c8e6aec8073b6f81139e15a53c55cfe3f98995b36fb47a0213e45c3eff2c1be79bb4925c45f0d09f737b8578886e30a8dbebf5e33277711c",
-            "hash": "0xbf2fe69a8a80fcb936c1e30bc20dbb9dcc808d701ce81f10238fad9d82f8bcfb"
-         }
-    ]
+      {
+        "id": "did:key:HISPSA#key-0",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "signature": "0xb2e7bb6eb832ee44ca51d3fa133117a66694a508e5d1bf121f0ee8bd1557ea331fa94328649d737516938af6b454a4db4e38d43e15bc00a058826c4e7eba70311b",
+        "hash": "0xb39128c0b9b735efbc5f7889ec55e25f3110935a2d4f12b3b0021b771a393b16"
+      },
+      {
+        "id": "did:key:HISPSA#key-1",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "expires": "2022-12-31T23:59:59Z",
+        "signature": "0x17c7335988fff9121cfd38ce15397af0816b76ca4afde954e3315447e0b1778a11d9947e2c03115fd7f733fab6f2545d77de18c2814f5fd818a7f7de339a8e651b",
+        "hash": "0xedcdb426b8b818a3d4b2b71bdc3748c056a6f33e12587d8c3dc8ef388265d894"
+      },
+      {
+        "id": "did:key:HISPSA#key-2",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "signature": "0xcfbe1e49ac5f0a5b7ef3b9f24c0273e9b8bf5c898dd594f4f8265adba8c5987d613614cda48914f87cb1f26339502f2fd3bec2e4a0e80e2b918d0f4463b8a4011c",
+        "hash": "0x56ac02b6b11ca918ad3795612bbae6cd6ce1ed94af8632998fe9d9bf8c955e04"
+      }
+    ],
+    "authentication": [],
+    "assertionMethod": [],
+    "capabilityDelegation": [],
+    "capabilityInvocation": [],
+    "keyAgreement": []
+
 }
