@@ -28,8 +28,22 @@
         "hash": "0x56ac02b6b11ca918ad3795612bbae6cd6ce1ed94af8632998fe9d9bf8c955e04"
       }
     ],
-    "authentication": [],
-    "assertionMethod": [],
+    "authentication": [
+    {
+        "id": "did:key:HISPSA#key-0",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "signature": "0xb2e7bb6eb832ee44ca51d3fa133117a66694a508e5d1bf121f0ee8bd1557ea331fa94328649d737516938af6b454a4db4e38d43e15bc00a058826c4e7eba70311b",
+        "hash": "0xb39128c0b9b735efbc5f7889ec55e25f3110935a2d4f12b3b0021b771a393b16"
+      }
+    ],
+    "assertionMethod": [
+    {
+        "id": "did:key:HISPSA#key-0",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "signature": "0xb2e7bb6eb832ee44ca51d3fa133117a66694a508e5d1bf121f0ee8bd1557ea331fa94328649d737516938af6b454a4db4e38d43e15bc00a058826c4e7eba70311b",
+        "hash": "0xb39128c0b9b735efbc5f7889ec55e25f3110935a2d4f12b3b0021b771a393b16"
+      }
+    ],
     "capabilityDelegation": [],
     "capabilityInvocation": [],
     "keyAgreement": []
