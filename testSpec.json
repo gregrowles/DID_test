@@ -6,6 +6,7 @@
     ],
     "id": "did:key:HISPSA",
     "name": "HISPSA",
+    "permissionedGroups": [ "publicKey", "authentication", "assertionMethod", "capabilityDelegation", "capabilityInvocation", "keyAgreement" ],
     "publicKey": [
       {
         "id": "did:key:HISPSA#key-0",
