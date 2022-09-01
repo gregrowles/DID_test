@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/secp256k1-2019/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "HISPSA.EMR:0:0",
+    "name": "HISPSA.EMR",
+    "permissionedGroups": [ "publicKey", "agreementOwner", "consentAccess" ],
+    "publicKey": [
+      {
+        "id": "HISPSA.EMR:0:0-key-0",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "signature": "0x34c59af9ed334390b06724443fc06c277a457ef34e158df440c04284b64053225092a51c697e3886645120c8388302a47a40e11708b3b187c13d4685768fb4541b",
+        "hash": "0xd50fb5a65f5ad9b6c8d2eef8085523d58c7678bbd36a0aef0149071288cda421"
+      }
+    ],
+    "agreementOwner": [
+    {
+        "id": "HISPSA.EMR:0:0-key-0",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "signature": "0x34c59af9ed334390b06724443fc06c277a457ef34e158df440c04284b64053225092a51c697e3886645120c8388302a47a40e11708b3b187c13d4685768fb4541b",
+        "hash": "0xd50fb5a65f5ad9b6c8d2eef8085523d58c7678bbd36a0aef0149071288cda421"
+      }
+    ],
+    "consentAccess": [
+    {
+        "id": "HISPSA.EMR:0:0-key-0",
+        "type": "EcdsaSecp256k1RecoverySignature2020",
+        "signature": "0x34c59af9ed334390b06724443fc06c277a457ef34e158df440c04284b64053225092a51c697e3886645120c8388302a47a40e11708b3b187c13d4685768fb4541b",
+        "hash": "0xd50fb5a65f5ad9b6c8d2eef8085523d58c7678bbd36a0aef0149071288cda421"
+      }
+    ]
+
+}
