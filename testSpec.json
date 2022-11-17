@@ -38,8 +38,7 @@
     ],
     "operator": [
       {
-        "id": "HISPSA:staffCode:RWLGRE001",
-        "type": "cid"
+        "cid": "HISPSA:staffCode:RWLGRE001"
       }
     ]
 }
