@@ -31,6 +31,9 @@
     "operator": [
       {
         "cid": "HISPSA:staffCode:RWLGRE001"
+      },
+      {
+        "cid": "HISPSA:staffCode:MANCOM001"
       }
     ]
 }
