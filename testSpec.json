@@ -34,6 +34,9 @@
       },
       {
         "cid": "HISPSA:staffCode:MANCOM001"
+      },
+      {
+        "cid": "HISPSA:staffCode:BROSEA001"
       }
     ]
 }
