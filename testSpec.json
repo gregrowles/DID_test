@@ -11,8 +11,8 @@
       {
         "id": "did:key:HISPSA#key-0",
         "type": "EcdsaSecp256k1RecoverySignature2020",
-        "signature": "0x420eb14ff672744a25ac6e4dad9abfdbe94dc989d6b904895d625199002d313d5307451dd757a8512a708399fc386b1a69dcda7cb9435661b7217606d4374e651b",
-        "hash": "0xa89357f33b1dbbd3d931654c6af7533ed3353c260b4b8db4ce144ceb902e95c5"
+        "signature": "0x82fbf25df22e749fb1c64603d8f3ea906ae90af3f58c96eb083e51bd18c128223332bef58387dcef4bff378e9a0fb40b33738fca45ecf16524874cc260fbf0a21b",
+        "hash": "0xc0c62e7a0984ecfefdeec34245e91f742a0c5c1adf9177f6cb5467a2d55719d3"
       }
     ],
     "operator": [
