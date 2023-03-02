@@ -11,21 +11,8 @@
       {
         "id": "did:key:HISPSA#key-0",
         "type": "EcdsaSecp256k1RecoverySignature2020",
-        "signature": "0xb2e7bb6eb832ee44ca51d3fa133117a66694a508e5d1bf121f0ee8bd1557ea331fa94328649d737516938af6b454a4db4e38d43e15bc00a058826c4e7eba70311b",
-        "hash": "0xb39128c0b9b735efbc5f7889ec55e25f3110935a2d4f12b3b0021b771a393b16"
-      },
-      {
-        "id": "did:key:HISPSA#key-1",
-        "type": "EcdsaSecp256k1RecoverySignature2020",
-        "expires": "2022-12-31T23:59:59Z",
-        "signature": "0x17c7335988fff9121cfd38ce15397af0816b76ca4afde954e3315447e0b1778a11d9947e2c03115fd7f733fab6f2545d77de18c2814f5fd818a7f7de339a8e651b",
-        "hash": "0xedcdb426b8b818a3d4b2b71bdc3748c056a6f33e12587d8c3dc8ef388265d894"
-      },
-      {
-        "id": "did:key:HISPSA#key-2",
-        "type": "EcdsaSecp256k1RecoverySignature2020",
-        "signature": "0xcfbe1e49ac5f0a5b7ef3b9f24c0273e9b8bf5c898dd594f4f8265adba8c5987d613614cda48914f87cb1f26339502f2fd3bec2e4a0e80e2b918d0f4463b8a4011c",
-        "hash": "0x56ac02b6b11ca918ad3795612bbae6cd6ce1ed94af8632998fe9d9bf8c955e04"
+        "signature": "0x420eb14ff672744a25ac6e4dad9abfdbe94dc989d6b904895d625199002d313d5307451dd757a8512a708399fc386b1a69dcda7cb9435661b7217606d4374e651b",
+        "hash": "0xa89357f33b1dbbd3d931654c6af7533ed3353c260b4b8db4ce144ceb902e95c5"
       }
     ],
     "operator": [
