@@ -2,7 +2,8 @@
     "@context": [
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/secp256k1-2019/v1",
-        "https://w3id.org/security/suites/jws-2020/v1"
+        "https://w3id.org/security/suites/jws-2020/v1",
+        "something/goes/here"
     ],
     "id": "did:key:HISPSA",
     "name": "HISPSA",
@@ -10,7 +11,6 @@
     "controller": [
       {
         "id": "did:key:HISPSA#key-0",
-        "type": "EcdsaSecp256k1RecoverySignature2020",
         "signature": "0x82fbf25df22e749fb1c64603d8f3ea906ae90af3f58c96eb083e51bd18c128223332bef58387dcef4bff378e9a0fb40b33738fca45ecf16524874cc260fbf0a21b",
         "hash": "0xc0c62e7a0984ecfefdeec34245e91f742a0c5c1adf9177f6cb5467a2d55719d3"
       }
