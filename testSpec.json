@@ -17,19 +17,13 @@
     ],
     "operator": [
       {
-        "cid": "HISPSA:staffCode:RWLGRE001"
+        "cid": "HISPSA:employeeID:GR129"
       },
       {
-        "cid": "HISPSA:staffCode:MANCOM001"
+        "cid": "HISPSA:employeeID:GK477"
       },
       {
-        "cid": "HISPSA:staffCode:BROSEA001"
-      },
-      {
-        "cid": "HISPSA:staffCode:PHIJAS001"
-      },
-      {
-        "cid": "HISPSA:staffCode:CLAELM001"
+        "cid": "HISPSA:employeeID:MM173"
       }
     ]
 }
